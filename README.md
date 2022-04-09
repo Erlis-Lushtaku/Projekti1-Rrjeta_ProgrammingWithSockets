@@ -1,1 +1,3 @@
 # Projekti1-Rrjeta_ProgrammingWithSockets
+
+This project implements 4 programs 2 of which are client programs and 2 other are server programs. One client-server pair communicates using the UDP protocol while the other pair communicates using the TCP protocol. A detailed explanation of this project and its implementation can be found in the files: [Projekti 1 - Programimi me soketa.pdf](https://github.com/ErlisLushtaku/Projekti1-Rrjeta_ProgrammingWithSockets/files/8457745/Projekti.1.-.Programimi.me.soketa.pdf), [Raporti - Erlis Lushtaku.pdf](https://github.com/ErlisLushtaku/Projekti1-Rrjeta_ProgrammingWithSockets/files/8457751/Raporti.-.Erlis.Lushtaku.pdf).
